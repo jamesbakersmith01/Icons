@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="950px" height="1016px" viewBox="0 0 950 1016" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="121.765799%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.821249),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#395492" offset="0%"></stop>
+            <stop stop-color="#563E79" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.18" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.08" offset="48.7623565%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.182801178" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="259.634205%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.385157),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-3">
+            <stop stop-color="#537DDC" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.623149,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-4">
+            <stop stop-color="#88ABF9" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="5.23386356%" y1="3.68263437%" x2="50%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0.09" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.982347,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-6">
+            <stop stop-color="#88ABF9" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.140913,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-7">
+            <stop stop-color="#2A1C7F" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="100%" y1="0%" x2="50%" y2="5.90452261%" id="linearGradient-8">
+            <stop stop-color="#000000" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="254.146874%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.393473),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-9">
+            <stop stop-color="#284891" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="city-lights">
+            <g id="Rectangle" transform="translate(440.945516, 507.941915) rotate(-9.200000) translate(-440.945516, -507.941915) translate(67.945516, 53.941915)">
+                <g id="path-2-link" fill="#000000" fill-rule="nonzero">
+                    <rect id="path-2" x="0.1667864" y="0.7989054" width="744.890015" height="907.021277" rx="23.7553191"></rect>
+                </g>
+                <g id="path-2-link" fill="url(#radialGradient-1)">
+                    <rect id="path-2" x="0.1667864" y="0.7989054" width="744.890015" height="907.021277" rx="23.7553191"></rect>
+                </g>
+                <g id="path-2-link" fill="url(#linearGradient-2)">
+                    <rect id="path-2" x="0.1667864" y="0.7989054" width="744.890015" height="907.021277" rx="23.7553191"></rect>
+                </g>
+            </g>
+            <g id="Path-2" transform="translate(464.000000, 232.000000)" fill-rule="nonzero">
+                <g id="path-4-link" fill="url(#radialGradient-3)">
+                    <path d="M0.151711,5.712251 L65.482558,426.898473 C65.848189,429.255685 68.055489,430.870181 70.412701,430.50455 C71.01317,430.41141 71.587228,430.192617 72.097364,429.862466 L163.678747,370.592707 C165.11266,369.664705 165.865022,367.978865 165.598153,366.291833 L112.517132,30.736516 C112.247327,29.030929 110.987572,27.649954 109.313876,27.225029 L5.482667,0.863882 C3.170618,0.276888 0.820479,1.675322 0.233485,3.987371 C0.090397,4.550965 0.062584,5.137648 0.151711,5.712251 Z" id="path-4"></path>
+                </g>
+                <g id="path-4-link" style="mix-blend-mode: multiply;" fill="#E0E0E0">
+                    <path d="M0.151711,5.712251 L65.482558,426.898473 C65.848189,429.255685 68.055489,430.870181 70.412701,430.50455 C71.01317,430.41141 71.587228,430.192617 72.097364,429.862466 L163.678747,370.592707 C165.11266,369.664705 165.865022,367.978865 165.598153,366.291833 L112.517132,30.736516 C112.247327,29.030929 110.987572,27.649954 109.313876,27.225029 L5.482667,0.863882 C3.170618,0.276888 0.820479,1.675322 0.233485,3.987371 C0.090397,4.550965 0.062584,5.137648 0.151711,5.712251 Z" id="path-4"></path>
+                </g>
+            </g>
+            <g id="Path-4" transform="translate(155.000000, 370.000000)" fill-rule="nonzero">
+                <g id="path-6-link" fill="url(#radialGradient-4)">
+                    <path d="M472.510916,232.73068 L375.970663,295.366129 C374.471239,296.338957 372.527506,296.28773 371.081406,295.237271 L1.957803,27.102934 C0.02785,25.701001 -0.400194,22.999974 1.001739,21.070021 C1.366546,20.567815 1.835314,20.150139 2.376109,19.845449 L35.724601,1.056504 C36.9946,0.340972 38.53984,0.314311 39.833766,0.985608 L472.149131,225.273441 C474.266532,226.371961 475.092498,228.978981 473.993978,231.096381 C473.649489,231.760384 473.138453,232.323533 472.510916,232.73068 Z" id="path-6"></path>
+                </g>
+                <g id="path-6-link" fill="url(#linearGradient-5)">
+                    <path d="M472.510916,232.73068 L375.970663,295.366129 C374.471239,296.338957 372.527506,296.28773 371.081406,295.237271 L1.957803,27.102934 C0.02785,25.701001 -0.400194,22.999974 1.001739,21.070021 C1.366546,20.567815 1.835314,20.150139 2.376109,19.845449 L35.724601,1.056504 C36.9946,0.340972 38.53984,0.314311 39.833766,0.985608 L472.149131,225.273441 C474.266532,226.371961 475.092498,228.978981 473.993978,231.096381 C473.649489,231.760384 473.138453,232.323533 472.510916,232.73068 Z" id="path-6"></path>
+                </g>
+            </g>
+            <g id="Path-3" transform="translate(187.000000, 232.000000)">
+                <g id="path-7-link"></g>
+                <g id="path-7-link" fill="url(#radialGradient-6)">
+                    <path d="M388.234009,34.486126 L46.696791,381.592348 C45.755338,382.549153 44.422544,383.013857 43.090289,382.849824 L4.285709,378.072051 C1.918187,377.780552 0.235237,375.624989 0.526736,373.257467 C0.618914,372.508802 0.905556,371.797331 1.358133,371.193865 L277.868442,2.49517 C278.914621,1.100196 280.696978,0.471108 282.387011,0.900328 L386.2185,27.270575 C388.530501,27.857758 389.928743,30.208011 389.34156,32.520012 C389.153129,33.261951 388.770899,33.940481 388.234009,34.486126 Z" id="path-7"></path>
+                </g>
+            </g>
+            <g id="Path-6" transform="translate(163.000000, 749.000000)" fill-rule="nonzero">
+                <g id="path-10-link" fill="url(#radialGradient-7)">
+                    <polygon id="path-10" points="0.409868 11.001849 607.015314 110.92013 786.681618 0.123836"></polygon>
+                </g>
+                <g id="path-10-link" fill="url(#linearGradient-8)">
+                    <polygon id="path-10" points="0.409868 11.001849 607.015314 110.92013 786.681618 0.123836"></polygon>
+                </g>
+            </g>
+            <polygon id="Path-5" fill="url(#radialGradient-9)" fill-rule="nonzero" points="647.533292 91.581917 849.853183 139.571289 949.622317 749.136886 770.289418 859.33173"></polygon>
+        </g>
+    </g>
+</svg>

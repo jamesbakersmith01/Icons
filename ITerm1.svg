@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 974 834" style="enable-background:new 0 0 974 834;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter-3);}
+	.st1{fill:url(#path-2_2_);}
+	.st2{fill:url(#Rectangle-Copy_1_);}
+	.st3{fill:url(#Rectangle-2_1_);}
+	.st4{fill:url(#Rectangle-2-Copy-3_1_);}
+	.st5{fill:url(#Rectangle-2-Copy-2_1_);}
+	.st6{fill:url(#Rectangle-2-Copy_1_);}
+</style>
+<filter  filterUnits="objectBoundingBox" height="105.6%" id="filter-3" width="104.7%" x="-2.4%" y="-1.7%">
+	<feOffset  dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6"></feGaussianBlur>
+	<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121178668 0">
+		</feColorMatrix>
+</filter>
+<desc>Created with Sketch.</desc>
+<g id="sample-terminal-icon" transform="translate(-25.000000, -104.000000)">
+	<g id="icon" transform="translate(37.000000, 107.000000)">
+		<g id="Rectangle">
+			<g class="st0">
+				<path id="path-2_2_" d="M48,30c-9.9,0-18,8.1-18,18v714c0,9.9,8.1,18,18,18h854c9.9,0,18-8.1,18-18V48c0-9.9-8.1-18-18-18H48z
+					 M48,0h854c26.5,0,48,21.5,48,48v714c0,26.5-21.5,48-48,48H48c-26.5,0-48-21.5-48-48V48C0,21.5,21.5,0,48,0z"/>
+			</g>
+			<g>
+				
+					<linearGradient id="path-2_2_" gradientUnits="userSpaceOnUse" x1="-802.6663" y1="1214.5284" x2="-802.6663" y2="1213.5284" gradientTransform="matrix(950 0 0 -810 763008 983768)">
+					<stop  offset="0" style="stop-color:#524270"/>
+					<stop  offset="1" style="stop-color:#111010"/>
+				</linearGradient>
+				<path id="path-2_1_" class="st1" d="M48,30c-9.9,0-18,8.1-18,18v714c0,9.9,8.1,18,18,18h854c9.9,0,18-8.1,18-18V48
+					c0-9.9-8.1-18-18-18H48z M48,0h854c26.5,0,48,21.5,48,48v714c0,26.5-21.5,48-48,48H48c-26.5,0-48-21.5-48-48V48
+					C0,21.5,21.5,0,48,0z"/>
+			</g>
+		</g>
+		<linearGradient id="Rectangle-Copy_1_" gradientUnits="userSpaceOnUse" x1="137.9301" y1="852.3069" x2="812.0699" y2="-42.3069">
+			<stop  offset="0" style="stop-color:#282882"/>
+			<stop  offset="9.601451e-02" style="stop-color:#2A2C85"/>
+			<stop  offset="0.1966" style="stop-color:#2F398D"/>
+			<stop  offset="0.2994" style="stop-color:#384E9A"/>
+			<stop  offset="0.4029" style="stop-color:#446BAC"/>
+			<stop  offset="0.4888" style="stop-color:#5189BF"/>
+			<stop  offset="0.6047" style="stop-color:#3B5C99"/>
+			<stop  offset="0.7245" style="stop-color:#273478"/>
+			<stop  offset="0.8345" style="stop-color:#191860"/>
+			<stop  offset="0.9299" style="stop-color:#100651"/>
+			<stop  offset="1" style="stop-color:#0D004C"/>
+		</linearGradient>
+		<path id="Rectangle-Copy" class="st2" d="M48,30h854c9.9,0,18,8.1,18,18v714c0,9.9-8.1,18-18,18H48c-9.9,0-18-8.1-18-18V48
+			C30,38.1,38.1,30,48,30z"/>
+		<path id="Rectangle_1_" d="M78,78v654h794V78H78z M48,30h854c9.9,0,18,8.1,18,18v714c0,9.9-8.1,18-18,18H48c-9.9,0-18-8.1-18-18
+			V48C30,38.1,38.1,30,48,30z"/>
+		
+			<linearGradient id="Rectangle-2_1_" gradientUnits="userSpaceOnUse" x1="-799.6581" y1="1208.6602" x2="-798.981" y2="1207.5676" gradientTransform="matrix(190 0 0 -60 152086 72668)">
+			<stop  offset="0" style="stop-color:#BE1349"/>
+			<stop  offset="0.4747" style="stop-color:#BE124E"/>
+			<stop  offset="0.5" style="stop-color:#BE124E"/>
+			<stop  offset="1" style="stop-color:#790025"/>
+		</linearGradient>
+		<path id="Rectangle-2" class="st3" d="M127,150h172c5,0,9,4,9,9v42c0,5-4,9-9,9H127c-5,0-9-4-9-9v-42C118,154,122,150,127,150z"/>
+		
+			<linearGradient id="Rectangle-2-Copy-3_1_" gradientUnits="userSpaceOnUse" x1="-800.86" y1="1208.6333" x2="-800.86" y2="1207.6333" gradientTransform="matrix(300 0 0 -60 240526 72868)">
+			<stop  offset="0" style="stop-color:#433559"/>
+			<stop  offset="1" style="stop-color:#907FA7"/>
+		</linearGradient>
+		<path id="Rectangle-2-Copy-3" class="st4" d="M127,350h282c5,0,9,4,9,9v42c0,5-4,9-9,9H127c-5,0-9-4-9-9v-42
+			C118,354,122,350,127,350z"/>
+		
+			<linearGradient id="Rectangle-2-Copy-2_1_" gradientUnits="userSpaceOnUse" x1="-796.9" y1="1208.6333" x2="-796.9" y2="1207.6333" gradientTransform="matrix(120 0 0 -60 96146 72868)">
+			<stop  offset="0" style="stop-color:#433559"/>
+			<stop  offset="1" style="stop-color:#907FA7"/>
+		</linearGradient>
+		<path id="Rectangle-2-Copy-2" class="st5" d="M467,350h102c5,0,9,4,9,9v42c0,5-4,9-9,9H467c-5,0-9-4-9-9v-42
+			C458,354,462,350,467,350z"/>
+		
+			<linearGradient id="Rectangle-2-Copy_1_" gradientUnits="userSpaceOnUse" x1="-801.4362" y1="1207.5742" x2="-801.6039" y2="1208.6924" gradientTransform="matrix(400 0 0 -60 320926 72768)">
+			<stop  offset="0" style="stop-color:#BE1349"/>
+			<stop  offset="0.4747" style="stop-color:#BE124E"/>
+			<stop  offset="0.5" style="stop-color:#BE124E"/>
+			<stop  offset="1" style="stop-color:#790025"/>
+		</linearGradient>
+		<path id="Rectangle-2-Copy" class="st6" d="M127,250h382c5,0,9,4,9,9v42c0,5-4,9-9,9H127c-5,0-9-4-9-9v-42
+			C118,254,122,250,127,250z"/>
+	</g>
+</g>
+</svg>
